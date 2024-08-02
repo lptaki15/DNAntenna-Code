@@ -2,7 +2,7 @@
 a repository for a DNAntenna dataset of brownian motion (benchmarked 8/2/24)
 
 what is included:
--microscope optics calibration with tetraspeck beads
+--microscope optics calibration with tetraspeck beads
   -raw bead data TIFs
   -calibration code w/generated figures
   -PDF summary of results
